@@ -6,6 +6,6 @@
         "WEBSITE_NODE_DEFAULT_VERSION": "~14",
         "RealTimeFeedUrl": "https://s3.amazonaws.com/kcm-alerts-realtime-prod/vehiclepositions_enhanced.json",
         "LogicAppUrl": "",
-        "AzureSQLConnectionString": "mssql://cloudadmin:[password]@[server-name].database.windows.net/bus-db?encrypt=true"            
+        "AzureSQLConnectionString": "mssql://cloudadmin:password123!@bus-server179080.database.windows.net/bus-db?encrypt=true"            
     }
 }
